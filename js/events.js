@@ -17,3 +17,7 @@ function frameIt() {
      return 'img .tasty'
   });
 }
+
+function pressIt() {
+  
+}
