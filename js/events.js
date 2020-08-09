@@ -12,3 +12,8 @@ function getIt() {
   });
 }
   
+function frameIt() {
+  $('img #tasty').on('load', function() {
+    
+  });
+}
